@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.timedisplay.title": "Time Display 设置",
+  "text.autoconfig.timedisplay.option.enabled": "已启用",
+  "text.autoconfig.timedisplay.option.twelveClockMode": "12小时制时钟 (AM/PM)",
+  "text.autoconfig.timedisplay.option.sortLinesByLength": "按长度对行排序",
+  "text.autoconfig.timedisplay.option.primaryColor": "主要颜色",
+  "text.autoconfig.timedisplay.option.secondaryColor": "次要颜色",
+  "text.autoconfig.timedisplay.option.accentColor": "强调色",
+  "category.timedisplay.keybinds": "Time Display",
+  "key.timedisplay.toggle": "切换"
+}
